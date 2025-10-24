@@ -8,7 +8,7 @@ A console-based math game application built with C# that helps users practice ba
 - **Game History**: Track your progress and view past game results
 - **Score Tracking**: Monitor your performance with detailed scoring
 - **User-Friendly Interface**: Clean console-based menu system
-- 
+
 ## How to Play
 
 1. **Launch the Application**: Run the executable to start the game
