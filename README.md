@@ -8,21 +8,7 @@ A console-based math game application built with C# that helps users practice ba
 - **Game History**: Track your progress and view past game results
 - **Score Tracking**: Monitor your performance with detailed scoring
 - **User-Friendly Interface**: Clean console-based menu system
-
-## Screenshots
-
-### Main Menu
-![Main Menu](screenshots/main-menu.png)
-*The main menu displays all available game options and navigation choices*
-
-### Gameplay Example - Addition Game
-![Addition Game](screenshots/addition-game.png)
-*Interactive addition game showing problem-solving and score tracking*
-
-### Game History
-![Game History](screenshots/game-history.png)
-*View your past game results with timestamps and scores*
-
+- 
 ## How to Play
 
 1. **Launch the Application**: Run the executable to start the game
@@ -62,22 +48,3 @@ MathGame/
 └── README.md               # This file
 ```
 
-## Features in Detail
-
-- **Interactive Menu System**: Easy navigation with single-key commands
-- **Score Tracking**: Each game tracks correct answers out of total questions
-- **Persistent History**: Game results are saved with timestamps
-- **Multiple Difficulty Levels**: Various arithmetic operations to practice
-- **Clean Console Interface**: Dark-themed, easy-to-read display
-
-## Contributing
-
-Feel free to contribute to this project by:
-- Adding new game modes
-- Improving the user interface
-- Adding difficulty levels
-- Implementing new features
-
-## License
-
-This project is open source and available under the MIT License.
